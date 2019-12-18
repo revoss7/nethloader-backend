@@ -1,1 +1,1 @@
-image: gitpod:workspace-mysql-8
+image: gitpod/workspace-mysql-8
